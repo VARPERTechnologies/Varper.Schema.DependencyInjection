@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varper.Schema.DependencyInjection", "Varper.Schema.DependencyInjection\Varper.Schema.DependencyInjection.csproj", "{EE9E014F-2FED-4887-A364-FC820938E79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varper.Schema.DependencyInjection.Test", "Varper.Schema.DependencyInjection.Test\Varper.Schema.DependencyInjection.Test.csproj", "{F40320DB-0C27-4426-A21B-73D8B672B5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE9E014F-2FED-4887-A364-FC820938E79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9E014F-2FED-4887-A364-FC820938E79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9E014F-2FED-4887-A364-FC820938E79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9E014F-2FED-4887-A364-FC820938E79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40320DB-0C27-4426-A21B-73D8B672B5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40320DB-0C27-4426-A21B-73D8B672B5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40320DB-0C27-4426-A21B-73D8B672B5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40320DB-0C27-4426-A21B-73D8B672B5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCBFE166-E47B-460C-B665-792265DEEE46}
+	EndGlobalSection
+EndGlobal
